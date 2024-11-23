@@ -24,6 +24,7 @@ Average Order Value: $38.31
 Visualizations:
 Daily and Monthly Trends: Total orders by day of the week and month.
 Category Performance: % of sales by pizza category and pizza size.
+![Pizza Sales Report - Overview](https://raw.githubusercontent.com/Eliyahu647/Pizza-Sales-Report/main/ReportPage.png)
 
 ### Best/Worst Sellers Dashboard
 Key Metrics:
@@ -39,6 +40,7 @@ Worst Pizza by Orders: The Brie Carre Pizza (490 orders)
 Visualizations:
 Top 5 Pizzas by Revenue and Orders
 Worst 5 Pizzas by Revenue and Orders
+![Best and Worst Sales Dashboard](https://raw.githubusercontent.com/Eliyahu647/Pizza-Sales-Report/main/Best_Worst_Sales.png)
 
 # Key Insights🔍 
 Revenue Leader: The Thai Chicken Pizza contributes the highest revenue.
